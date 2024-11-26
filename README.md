@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there  I'm Ahrar Saifi👋
 
 
-**AhrarSaifi/AhrarSaifi** is a ✨ _special_ ✨
+<!-- **AhrarSaifi/AhrarSaifi** is a ✨ _special_ ✨ 
 
 
 - 🔭 I’m currently working on ...
@@ -12,3 +12,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
